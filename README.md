@@ -2,8 +2,8 @@
 
 ## **_Perso_**
 Je suis **Elisabeth** mais tout le monde m'appelle ✨ **Eli** ✨ <br> 
-_"Passionnée par l’envie de progresser de manière continue. Mon parcours atypique m'a permis d'acquérir une palette de compétences élargies,<br>
-de la petite enfance à la responsabilité pédago-numérique, en passant aujourd’hui par une formation en développement web chez BeCode <br>
+_"Passionnée par l’envie de progresser de manière continue. Mon parcours atypique m'a permis d'acquérir une palette de compétences élargies,
+de la petite enfance à la responsabilité pédago-numérique,<br> en passant aujourd’hui par une formation en développement web chez BeCode 
 et plus précisément à travers un cursus UX/UI.<br> <br>
 Je suis prête à prendre la place qui me permettra d’exploiter pleinement mon tempérament créatif tout en apportant une efficacité assurée au sein d'un service adressé aux personnes."_
 
