@@ -35,7 +35,7 @@ Je suis prête à prendre la place qui me permettra d’exploiter pleinement mon
 
 ## 🌱 **_Projets ou Exo_** 
 
-- ⚡ [Projet UX/UI-Path](https://github.com/Elibbth/UX-UI-Path) >> 12/2023
+- ⚡ [![](https://img.shields.io/badge/Preview-blue)](https://elibbth.github.io/UX-UI-Path/4.%20Projet%20Smile/) [Projet UX/UI-Path](https://github.com/Elibbth/UX-UI-Path) >> 12/2023
 - ⚡ [![](https://img.shields.io/badge/Preview-blue)](https://elibbth.github.io/Weather-App/) [Projet Weather App](https://github.com/Elibbth/Weather-App) >> 12/2023
 - ⚡ [![](https://img.shields.io/badge/Preview-blue)](https://antoinel74.github.io/Dark-Kitchen/) [Projet Dark kitchen](https://github.com/Elibbth/Dark-Kitchen) >> 11/2023
 - ⚡ [![](https://img.shields.io/badge/Preview-blue)](https://elibbth.github.io/project-planner/) [Projet Project Planner](https://github.com/Elibbth/project-planner) >> 11/2023
