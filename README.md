@@ -21,6 +21,7 @@ Je suis prête à prendre la place qui me permettra d’exploiter pleinement mon
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 #### Design
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 #### Publications
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
