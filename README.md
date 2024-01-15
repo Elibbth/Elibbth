@@ -28,7 +28,10 @@ Je suis prête à prendre la place qui me permettra d’exploiter pleinement mon
 #### Editeurs
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 #### "Outils Google" & Autres
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+![GoogleDrive](https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
+![Powerpoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white)
 
 ## 🌱 **_Projets ou Exo_** 
 
